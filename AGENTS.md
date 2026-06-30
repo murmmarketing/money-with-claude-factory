@@ -15,8 +15,11 @@ with ZERO memory, so the repo IS your memory. Follow this loop exactly.
 
 ### 1. Orient (read your memory)
 - Read `data/run-order.json` — the prioritized list of idea ids.
-- List `kits/` — every folder there is an idea ALREADY DONE. This is the source of truth.
-- The **batch** = the first **3** ids in run-order that do NOT yet have a `kits/<id>/` folder.
+- **Authoritative "already done" check = Gmail.** Search Gmail (`[Idea Factory]`) and collect
+  every idea id that appears in a `Done: <id>,<id>,...` line of a past Factory email. These are DONE.
+  (Git push may not be available in this environment, so do NOT rely on `kits/` folders alone —
+  but if `kits/<id>/` exists, treat that id as done too. Union both sources.)
+- The **batch** = the first **3** ids in run-order that are NOT in the done set.
   (If `BATCH_SIZE` is set in the run prompt, use that instead of 3.)
 
 ### 2. Build a launch kit for each idea in the batch
@@ -51,8 +54,12 @@ MurmReps/CAIRN/murmweb.dev, wire the kit to that existing distribution explicitl
 ### 5. Report to owner (Gmail)
 Send ONE email to pawtix.store@gmail.com:
 - Subject: `[Idea Factory] N new launch kits ready — <date>`
-- Body: for each idea — id, title, the one-line offer, suggested price, and the 2-3
-  "YOUR MOVE" steps. End with the GitHub repo link and how many of 800 are now done.
+- Body, in this order:
+  1. A `Done: <id>,<id>,<id>` line near the TOP (machine-readable state — REQUIRED, this is how
+     future runs know what's finished. Use the exact ids you built this run.)
+  2. For each idea — id, title, the one-line offer, suggested price, and the 2-3 "YOUR MOVE" steps.
+  3. **The full kit contents inline** (paste each file), so the work is delivered even if git push failed.
+  4. The GitHub repo link and a running `X / 800 done` count.
 
 ## Rules
 - Never redo an idea that already has a `kits/<id>/` folder.
