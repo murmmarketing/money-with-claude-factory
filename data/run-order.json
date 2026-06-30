@@ -1,0 +1,6402 @@
+[
+  {
+    "id": "S1-109",
+    "title": "Email signature design",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-113",
+    "title": "App store screenshot design",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-142",
+    "title": "Review-response automation",
+    "cat": "Automation & Ops",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-18",
+    "title": "App store listing copy (ASO)",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-24",
+    "title": "Explainer-video scripts",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-241",
+    "title": "Prompt packs & template vaults",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-243",
+    "title": "Spreadsheet templates & models",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-247",
+    "title": "Email template packs",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-25",
+    "title": "Dating-profile writing",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-281",
+    "title": "Ecommerce listing optimization",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-29",
+    "title": "Webinar-to-lead-magnet repurposing",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-302",
+    "title": "Product photo descriptions",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-318",
+    "title": "Etsy SEO service",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-5",
+    "title": "Repurpose podcasts into articles",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-7",
+    "title": "Product descriptions at scale",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-87",
+    "title": "Email newsletter design",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-94",
+    "title": "Infographic design service",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S2-11",
+    "title": "AI prompt cookbooks for one industry",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S2-22",
+    "title": "Job-search command-center kit",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S2-254",
+    "title": "Task-specific Claude/GPT config packs",
+    "cat": "Automation Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S2-365",
+    "title": "Quick-reference cheat-sheet products",
+    "cat": "Self-Serve Learning",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-1",
+    "title": "Run a paid niche newsletter",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-154",
+    "title": "Newsletter curation automation",
+    "cat": "Automation & Ops",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-177",
+    "title": "Lead magnet → email course",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-245",
+    "title": "Printables shop",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-256",
+    "title": "Meditation & audio scripts",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-263",
+    "title": "Recipe ebooks & meal plans",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-283",
+    "title": "Etsy digital downloads",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-296",
+    "title": "Redbubble / Society6 shop",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-297",
+    "title": "Gumroad product line",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-309",
+    "title": "Custom GPT / prompt store",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-352",
+    "title": "Local reports for realtors",
+    "cat": "Data & Research",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-387",
+    "title": "Faith-based content & products",
+    "cat": "Local & Niche",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-74",
+    "title": "Niche link-in-bio tool",
+    "cat": "Build & Ship",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-75",
+    "title": "Browser-based converters",
+    "cat": "Build & Ship",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-1",
+    "title": "A Notion \"second brain\" template empire",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-133",
+    "title": "POD tote bags & accessories",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-137",
+    "title": "Greeting-card lines (POD + printable)",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-156",
+    "title": "Lightroom / mobile preset packs",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-176",
+    "title": "Quotes / sayings / reference SEO site",
+    "cat": "Programmatic & SEO",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-197",
+    "title": "\"What does X mean / how to pronounce\" site",
+    "cat": "Programmatic & SEO",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-207",
+    "title": "Scene & backdrop packs for sellers",
+    "cat": "AI Visual Studio",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-208",
+    "title": "AI avatar & profile-pic packs",
+    "cat": "AI Visual Studio",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-21",
+    "title": "Digital sticker & clip-art packs",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-223",
+    "title": "Custom sticker & emoji packs",
+    "cat": "AI Visual Studio",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-248",
+    "title": "AI support-macro & reply template packs",
+    "cat": "Automation Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-27",
+    "title": "Phone & desktop wallpaper packs",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-273",
+    "title": "Review-request automation flows",
+    "cat": "Automation Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-3",
+    "title": "ATS-proof resume systems by industry",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-317",
+    "title": "Evergreen email course → affiliate",
+    "cat": "Audience & Licensing",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-32",
+    "title": "Newsletter & Substack design templates",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-362",
+    "title": "Paid automated email course",
+    "cat": "Self-Serve Learning",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-37",
+    "title": "Greeting & e-card template shops",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-380",
+    "title": "Spaced-repetition flashcard decks",
+    "cat": "Self-Serve Learning",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-48",
+    "title": "Curated playlist + cover-art brand",
+    "cat": "Faceless Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-70",
+    "title": "Faceless \"study with me\" / focus channel",
+    "cat": "Faceless Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-8",
+    "title": "Email swipe-file vaults",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-101",
+    "title": "Webinar slide design",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-106",
+    "title": "Album & podcast cover art",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-107",
+    "title": "Real-estate brochures",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-111",
+    "title": "One-pager & sell-sheet design",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-135",
+    "title": "Meeting notes → actions",
+    "cat": "Automation & Ops",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-15",
+    "title": "Resume & cover-letter rewrites",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-16",
+    "title": "Wedding speeches & toasts",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-172",
+    "title": "1:1 tutoring + materials",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-19",
+    "title": "Press releases + outreach",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-2",
+    "title": "Ghostwrite LinkedIn for founders",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-218",
+    "title": "Transcription + summary service",
+    "cat": "Freelance Services",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-242",
+    "title": "Notion templates",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-246",
+    "title": "AI art / prompt packs",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-248",
+    "title": "Social template packs",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-251",
+    "title": "Swipe files",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-254",
+    "title": "Canva template packs",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-257",
+    "title": "Workbooks & worksheets",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-279",
+    "title": "Trivia & quiz packs",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-285",
+    "title": "Amazon listing optimization",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-292",
+    "title": "eBay listing automation",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-31",
+    "title": "Reddit/Quora answer marketing",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-340",
+    "title": "Academic summarizing service",
+    "cat": "Data & Research",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-35",
+    "title": "Bio & “about page” packages",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-364",
+    "title": "Real-estate listing descriptions",
+    "cat": "Local & Niche",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-37",
+    "title": "Course workbooks & worksheets",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-378",
+    "title": "Auto-dealer listing content",
+    "cat": "Local & Niche",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-39",
+    "title": "Obituary & eulogy writing",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-4",
+    "title": "Faceless YouTube scriptwriting",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-84",
+    "title": "Social template kits",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-88",
+    "title": "Notion dashboard design",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-91",
+    "title": "Book & ebook cover design",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-93",
+    "title": "Event & wedding invitations",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-95",
+    "title": "Restaurant menu design",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S2-6",
+    "title": "Prompt + Claude Project packs by profession",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-139",
+    "title": "Web monitoring & alerts",
+    "cat": "Automation & Ops",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-143",
+    "title": "Appointment reminder systems",
+    "cat": "Automation & Ops",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-152",
+    "title": "Form-to-CRM automation",
+    "cat": "Automation & Ops",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-156",
+    "title": "Inventory alert systems",
+    "cat": "Automation & Ops",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-158",
+    "title": "Automated proposal generation",
+    "cat": "Automation & Ops",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-178",
+    "title": "Templates as audience builder",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-179",
+    "title": "Office-hours membership",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-180",
+    "title": "Paid accountability program",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-188",
+    "title": "Sell a swipe-file library",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-190",
+    "title": "Mentorship / apprenticeship",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-193",
+    "title": "Niche career coaching",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-196",
+    "title": "Design critique club",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-244",
+    "title": "Niche ebooks & guides",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-249",
+    "title": "Resume template packs",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-258",
+    "title": "Wallpapers & digital art",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-26",
+    "title": "Greeting-card lines & quotes",
+    "cat": "Writing & Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-261",
+    "title": "“Ultimate guide” bundles",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-264",
+    "title": "Wedding planning kits",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-265",
+    "title": "Budget & finance trackers",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-268",
+    "title": "Kids’ activity packs",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-271",
+    "title": "Business plan & model templates",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-273",
+    "title": "Contract & document templates",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-275",
+    "title": "Journal & habit templates",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-277",
+    "title": "Niche resource directories",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-293",
+    "title": "Handmade brand marketing",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-305",
+    "title": "Depop / Vinted reselling",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-370",
+    "title": "Salon & spa marketing systems",
+    "cat": "Local & Niche",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-373",
+    "title": "Event planning toolkits",
+    "cat": "Local & Niche",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-375",
+    "title": "Pet-business marketing",
+    "cat": "Local & Niche",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-376",
+    "title": "Local tour & experience listings",
+    "cat": "Local & Niche",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-377",
+    "title": "Farmers-market vendor content",
+    "cat": "Local & Niche",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-389",
+    "title": "Childcare / daycare marketing",
+    "cat": "Local & Niche",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-398",
+    "title": "Local influencer kit service",
+    "cat": "Local & Niche",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-71",
+    "title": "Invoice & quote generators",
+    "cat": "Build & Ship",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-89",
+    "title": "Resume / CV template design",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-130",
+    "title": "POD drinkware & mugs",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-131",
+    "title": "POD phone cases by micro-niche",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-132",
+    "title": "Sticker shops (Redbubble/Etsy)",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-139",
+    "title": "Niche notebooks & journals (POD)",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-147",
+    "title": "Album / track cover art licensing",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-149",
+    "title": "POD baby & kids apparel",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-151",
+    "title": "Profession-pride gift designs",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-16",
+    "title": "Real-estate listing & flyer kits",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-2",
+    "title": "Canva template packs for boring niches",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-236",
+    "title": "Seamless background & texture packs",
+    "cat": "AI Visual Studio",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-28",
+    "title": "Podcast & creator launch kits",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-288",
+    "title": "License AI stock to platforms (rev-share)",
+    "cat": "Audience & Licensing",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-75",
+    "title": "Affirmation / poetry reels → printables",
+    "cat": "Faceless Content",
+    "effort": "Low",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-102",
+    "title": "Annual report design",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-110",
+    "title": "Data-viz / chart service",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-112",
+    "title": "Notion + design productized",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-124",
+    "title": "Support automation setup",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-125",
+    "title": "Data-entry automation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-126",
+    "title": "Inbox triage automation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-128",
+    "title": "Automated report generation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-130",
+    "title": "Spreadsheet-to-workflow",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-133",
+    "title": "Ecommerce ops automation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-140",
+    "title": "Price monitoring for retailers",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-141",
+    "title": "SEO audit automation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-149",
+    "title": "Automated bookkeeping prep",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-150",
+    "title": "Lead routing & scoring",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-153",
+    "title": "Report → dashboard automation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-165",
+    "title": "Productized coaching",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-186",
+    "title": "Test-prep tutoring + materials",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-20",
+    "title": "X / Twitter ghostwriting",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-205",
+    "title": "Podcast production service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-206",
+    "title": "Video editing + repurposing",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-207",
+    "title": "Email marketing management",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-220",
+    "title": "QA testing service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-222",
+    "title": "Shopify store setup",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-228",
+    "title": "Newsletter growth service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-23",
+    "title": "Annual reports & investor letters",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-230",
+    "title": "LinkedIn lead-gen service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-231",
+    "title": "Cold email infrastructure",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-235",
+    "title": "Landing-page A/B testing",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-239",
+    "title": "Technical SEO service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-255",
+    "title": "Notion + AI productivity systems",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-27",
+    "title": "Microcopy / UX writing",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-291",
+    "title": "Reselling sourcing assistant",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-3",
+    "title": "Productized SEO blog content",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-317",
+    "title": "Sourcing agent for makers",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-319",
+    "title": "Shopify theme customization",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-323",
+    "title": "Competitive teardown reports",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-329",
+    "title": "Lead lists & prospecting data",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-331",
+    "title": "Sentiment analysis reports",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-333",
+    "title": "Real-estate market analysis",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-334",
+    "title": "Keyword research products",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-343",
+    "title": "Amazon product research",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-345",
+    "title": "Job-market reports",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-346",
+    "title": "Salary benchmarking reports",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-347",
+    "title": "Customer interview synthesis",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-348",
+    "title": "Voice-of-customer reports",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-353",
+    "title": "Competitive pricing intelligence",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-354",
+    "title": "App Store / Play data reports",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-355",
+    "title": "Newsletter benchmark reports",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-356",
+    "title": "Podcast trend reports",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-357",
+    "title": "SEO competitor monitoring",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-36",
+    "title": "Cold-email campaign copy",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-362",
+    "title": "Local SEO for service businesses",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-372",
+    "title": "Property management automation",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-379",
+    "title": "Insurance agency content",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-380",
+    "title": "Financial advisor content",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-381",
+    "title": "Contractor lead systems",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-386",
+    "title": "Nonprofit comms support",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-58",
+    "title": "Spreadsheet-replacement apps",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-6",
+    "title": "Email welcome-sequence copywriting",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-81",
+    "title": "Landing pages in a day",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-90",
+    "title": "Static ad creative design",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-92",
+    "title": "Packaging & label design",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-117",
+    "title": "Desktop \"organise my files\" utility",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-13",
+    "title": "SOP & operations playbook libraries",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-14",
+    "title": "Wedding & event digital bundles",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-143",
+    "title": "Niche cookbook & recipe ebooks",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-145",
+    "title": "POD party & wedding signage",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-152",
+    "title": "POD home textiles",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-153",
+    "title": "Creative Fabrica / craft asset sales",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-158",
+    "title": "Premium physical planners (POD)",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-17",
+    "title": "Legal & freelance contract template suites",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-171",
+    "title": "Programmatic trend / \"in 2026\" pages",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-180",
+    "title": "Phrase / language reference pages",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-187",
+    "title": "Plan / policy explainer site",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-188",
+    "title": "Link-bait statistics & study pages",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-196",
+    "title": "FAQ / snippet-optimised niche site",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-20",
+    "title": "Grant & proposal template libraries",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-219",
+    "title": "Storyboard & scene-concept packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-221",
+    "title": "Tattoo-design concept shop",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-230",
+    "title": "Editorial-illustration licensing",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-242",
+    "title": "n8n self-hostable workflow shop",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-244",
+    "title": "Notion automation & integration kits",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-246",
+    "title": "Apps Script automation packs",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-25",
+    "title": "Meal-plan & nutrition template engine",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-251",
+    "title": "Spreadsheet macro & dashboard library",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-256",
+    "title": "Auto-reporting template library",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-258",
+    "title": "Lead-routing & CRM automation templates",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-26",
+    "title": "Startup legal & ops document vault",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-260",
+    "title": "Invoicing & bookkeeping automation kits",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-261",
+    "title": "Scheduling & reminder automation kits",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-264",
+    "title": "Webhook & integration recipe pack",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-265",
+    "title": "Personal-finance automation templates",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-266",
+    "title": "HR & onboarding automation packs",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-269",
+    "title": "Newsletter automation system",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-272",
+    "title": "Inventory & restock automation templates",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-274",
+    "title": "Affiliate-link management automation",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-285",
+    "title": "Build a subreddit/community → sponsor",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-29",
+    "title": "Kids’ printable activity & chore packs",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-293",
+    "title": "Niche Facebook group → affiliate + sponsor",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-294",
+    "title": "Syndicate content to publishers",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-30",
+    "title": "Travel itinerary & city-guide templates",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-318",
+    "title": "License recipes/content to sites",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-330",
+    "title": "Survey-based insight reports",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-336",
+    "title": "Directory data exports",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-34",
+    "title": "Mockup & scene-generator packs",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-340",
+    "title": "Financial-data summary products (non-advice)",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-350",
+    "title": "Job-market data reports",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-353",
+    "title": "Marketing benchmark data products",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-357",
+    "title": "Research-brief subscription",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-36",
+    "title": "Interactive quiz & assessment templates",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-366",
+    "title": "Notion-based course workspaces",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-372",
+    "title": "Workbook & exercise learning products",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-377",
+    "title": "Self-serve kids’ learning products",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-379",
+    "title": "Audio / podcast-style courses",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-38",
+    "title": "Course-creation template system",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-382",
+    "title": "Example-driven \"swipe & learn\" course",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-388",
+    "title": "Creative-skill courses (art, writing, music)",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-389",
+    "title": "Hobby & trade how-to course library",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-391",
+    "title": "Productivity & systems course",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-392",
+    "title": "Financial-literacy course (non-advice)",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-393",
+    "title": "Career-skills self-serve course",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-45",
+    "title": "AI-narrated short-story / fiction channels",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-5",
+    "title": "Spreadsheet financial models as products",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-60",
+    "title": "Faceless book-summary channel + newsletter",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-7",
+    "title": "Printable planner lines (no shipping)",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-87",
+    "title": "Raycast / Alfred power extensions",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-9",
+    "title": "Airtable / ops template marketplace",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-93",
+    "title": "Mac menu-bar utility",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-118",
+    "title": "Wedding stationery suites",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-155",
+    "title": "Job-application autopilot",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-202",
+    "title": "AI-augmented VA service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-82",
+    "title": "Pitch-deck studio",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Week"
+  },
+  {
+    "id": "S1-10",
+    "title": "B2B case-study writing",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-103",
+    "title": "Brand refresh sprints",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-104",
+    "title": "Style-guide creation",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-108",
+    "title": "Course visual identity",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-11",
+    "title": "Localize & translate content",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-114",
+    "title": "Trade-show booth graphics",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-119",
+    "title": "Restaurant & cafe brand kits",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-121",
+    "title": "Automations for local businesses",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-122",
+    "title": "Lead-gen scraping + enrichment",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-127",
+    "title": "Social scheduling automation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-129",
+    "title": "CRM cleanup & automation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-132",
+    "title": "Onboarding workflow automation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-134",
+    "title": "Recruiting screening automation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-136",
+    "title": "Invoice / AP automation",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-137",
+    "title": "Policy & compliance docs",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-138",
+    "title": "Support knowledge bots",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-145",
+    "title": "Personalized outreach systems",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-147",
+    "title": "“Connect X to Y” integrations",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-151",
+    "title": "FAQ deflection chatbots",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-157",
+    "title": "Social listening dashboards",
+    "cat": "Automation & Ops",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-166",
+    "title": "Workshop facilitation",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-17",
+    "title": "Sales pages & VSL scripts",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-185",
+    "title": "AI-assisted language teaching",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-197",
+    "title": "Writing workshop series",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-204",
+    "title": "Social media management",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-209",
+    "title": "Influencer outreach service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-210",
+    "title": "Community management",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-211",
+    "title": "Support-as-a-service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-212",
+    "title": "Bookkeeping + AI service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-213",
+    "title": "Market research on demand",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-214",
+    "title": "Competitive intelligence",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-215",
+    "title": "Proposal / RFP writing",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-216",
+    "title": "Grant research + writing",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-219",
+    "title": "Data labeling / annotation",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-221",
+    "title": "Webflow / Framer build service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-223",
+    "title": "Notion consulting / setup",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-224",
+    "title": "No-code automation consulting",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-226",
+    "title": "Prompt engineering consulting",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-227",
+    "title": "Custom chatbot building",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-229",
+    "title": "Personal branding service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-232",
+    "title": "CRM implementation",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-233",
+    "title": "Analytics & dashboard setup",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-234",
+    "title": "Conversion-rate optimization",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-236",
+    "title": "Brand-photography art direction",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-237",
+    "title": "UX research + synthesis",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-238",
+    "title": "Accessibility audit service",
+    "cat": "Freelance Services",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-266",
+    "title": "Fitness program PDFs",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-269",
+    "title": "Teacher resources (TpT)",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-274",
+    "title": "SOP & process libraries",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-28",
+    "title": "Content-calendar retainer",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-301",
+    "title": "B2B / wholesale catalog copy",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-303",
+    "title": "Marketplace arbitrage research",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-304",
+    "title": "Local marketplace flipping",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-325",
+    "title": "Data visualization service",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-326",
+    "title": "Survey design + analysis",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-327",
+    "title": "Literature review service",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-33",
+    "title": "Keynote & talk writing",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-339",
+    "title": "Grant opportunity databases",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-34",
+    "title": "SaaS knowledge-base writing",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-341",
+    "title": "Earnings call summaries",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-344",
+    "title": "Creator / influencer databases",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-350",
+    "title": "Data cleaning service",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-363",
+    "title": "Restaurant menu + ordering setup",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-365",
+    "title": "Medical / dental practice content",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-366",
+    "title": "Law-firm content + intake bots",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-367",
+    "title": "Church & nonprofit websites",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-368",
+    "title": "Teacher / school tools",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-369",
+    "title": "Fitness studio systems",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-371",
+    "title": "Trades websites (fast)",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-374",
+    "title": "Wedding vendor services",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-388",
+    "title": "Senior-care resource sites",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-390",
+    "title": "Specialized coaching niche",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-391",
+    "title": "Therapist practice content",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-393",
+    "title": "Franchise marketing kits",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-395",
+    "title": "Trade-school content",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-40",
+    "title": "Brand voice & messaging guides",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-52",
+    "title": "No-code app cloning",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-53",
+    "title": "Webflow / Framer custom code",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-59",
+    "title": "Custom Zapier / Make apps",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-61",
+    "title": "Scrape-to-CSV extensions",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-66",
+    "title": "Webhook glue services",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-67",
+    "title": "Dashboards-as-a-service",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-68",
+    "title": "AI chat widgets for sites",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-69",
+    "title": "Niche form builders",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-77",
+    "title": "Quiz / assessment SaaS",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-8",
+    "title": "Grant writing for nonprofits",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-83",
+    "title": "Brand identity packages",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-9",
+    "title": "Technical documentation writing",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-96",
+    "title": "App UI mockup service",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-12",
+    "title": "Brand-in-a-box kits for micro-businesses",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-126",
+    "title": "KDP niche how-to & nonfiction",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-129",
+    "title": "AI stock imagery for marketers",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-136",
+    "title": "Enamel-pin & patch designs",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-141",
+    "title": "AI-narrated audiobooks (KDP/ACX)",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-142",
+    "title": "Translated-edition publishing",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-144",
+    "title": "AI art & lookbook coffee-table books",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-15",
+    "title": "Teacher resources on autopilot",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-155",
+    "title": "Procreate brush & stamp sets",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-157",
+    "title": "Typography & font-pairing asset packs",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-18",
+    "title": "Restaurant & cafe brand packs",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-210",
+    "title": "Lyric & music-visualizer video packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-213",
+    "title": "AI logo & mark concept packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-218",
+    "title": "Motion intro / outro template packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-220",
+    "title": "Comic & manga asset packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-224",
+    "title": "Coloring-art licensing library",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-229",
+    "title": "Fantasy map & world-art shop",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-231",
+    "title": "3D-style icon & asset packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-237",
+    "title": "Concept-art & landscape licensing",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-238",
+    "title": "Animated sticker & GIF packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-239",
+    "title": "Presentation-visual & slide-art packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-245",
+    "title": "Airtable automation template library",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-284",
+    "title": "License your viral clips to media",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-291",
+    "title": "License a royalty-free audio library",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-301",
+    "title": "License educational content to platforms",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-308",
+    "title": "Playlist network → promo income",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-309",
+    "title": "License stock video to platforms",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-31",
+    "title": "Etsy-seller toolkit (sell to sellers)",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-314",
+    "title": "License fonts/graphics to subscriptions",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-33",
+    "title": "Fitness & coaching program templates",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-344",
+    "title": "Data-visualization template packs",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-363",
+    "title": "Deep niche guide ebooks",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-369",
+    "title": "Language mini-course series",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-385",
+    "title": "Lesson plans & curricula for educators",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-39",
+    "title": "Twitch / streamer overlay packs",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-4",
+    "title": "Pitch-deck template lines for verticals",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-400",
+    "title": "Localized course editions",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-71",
+    "title": "AI lofi / beat channel + licensing",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-95",
+    "title": "Telegram bot with premium tier",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-99",
+    "title": "Premium SSG themes & plugins",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-146",
+    "title": "Back-office RPA",
+    "cat": "Automation & Ops",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-203",
+    "title": "Done-for-you SEO",
+    "cat": "Freelance Services",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-320",
+    "title": "Amazon storefront management",
+    "cat": "Commerce & Markets",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-184",
+    "title": "Niche event / calendar aggregator",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-247",
+    "title": "Browser-automation recipe shop",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-255",
+    "title": "Public-data scraping template shop",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-263",
+    "title": "Moderation & filter recipe library",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-268",
+    "title": "Podcast-production automation pipeline",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-271",
+    "title": "Localization automation kit",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-275",
+    "title": "Data-cleaning automation templates",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-278",
+    "title": "Price-monitoring automation templates",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-329",
+    "title": "Historical price/data products",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-335",
+    "title": "Spec & comparison databases (sold)",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-338",
+    "title": "Local & geospatial data products",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-347",
+    "title": "Public-records research products",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-358",
+    "title": "Competitive-intelligence reports",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-359",
+    "title": "Data-backed whitepapers & ebooks",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-360",
+    "title": "Annual niche \"almanac\" product",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-123",
+    "title": "Internal AI assistants for SMBs",
+    "cat": "Automation & Ops",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-131",
+    "title": "Document processing (OCR+AI)",
+    "cat": "Automation & Ops",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-144",
+    "title": "Content moderation pipelines",
+    "cat": "Automation & Ops",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-148",
+    "title": "Data pipelines / ETL for SMBs",
+    "cat": "Automation & Ops",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-159",
+    "title": "Scheduling optimization",
+    "cat": "Automation & Ops",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-217",
+    "title": "Localization agency",
+    "cat": "Freelance Services",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-338",
+    "title": "Patent / IP landscape research",
+    "cat": "Data & Research",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-43",
+    "title": "Niche internal tools for SMBs",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-51",
+    "title": "AI feature add-ons",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-79",
+    "title": "Internal AI search for SMBs",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-345",
+    "title": "Aggregated sentiment/review data",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-351",
+    "title": "Sports & stats datasets",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-62",
+    "title": "Automated \"on this day\" content engine",
+    "cat": "Faceless Content",
+    "effort": "High",
+    "label": "grounded",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-105",
+    "title": "Sticker & poster shop",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-182",
+    "title": "Teaching-led affiliate income",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-260",
+    "title": "Niche web calculators",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-276",
+    "title": "Prompt course (productized)",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-295",
+    "title": "Merch by Amazon designs",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-134",
+    "title": "POD pet-lover products",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-228",
+    "title": "Aesthetic wallpaper subscription",
+    "cat": "AI Visual Studio",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-292",
+    "title": "Sell promo slots on owned channels",
+    "cat": "Audience & Licensing",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-303",
+    "title": "License AI art to POD platforms (rev-share)",
+    "cat": "Audience & Licensing",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-61",
+    "title": "Hyper-niche curation newsletter",
+    "cat": "Faceless Content",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-116",
+    "title": "Coloring books (KDP)",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-117",
+    "title": "Planner & journal design",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-189",
+    "title": "Paid challenge (5–30 day)",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-194",
+    "title": "Sell your prompt playbook",
+    "cat": "Teaching & Audience",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-267",
+    "title": "Coloring books (KDP)",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-278",
+    "title": "Sticker & merch designs",
+    "cat": "Digital Products",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-286",
+    "title": "KDP low-content books",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-306",
+    "title": "POD for pet niches",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-307",
+    "title": "POD for hobbies",
+    "cat": "Commerce & Markets",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-98",
+    "title": "Merch & POD designs",
+    "cat": "Design & Brand",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-123",
+    "title": "Amazon KDP low-content books",
+    "cat": "Print & Marketplace",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-203",
+    "title": "YouTube thumbnail packs & templates",
+    "cat": "AI Visual Studio",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-68",
+    "title": "Reddit-story narration channels",
+    "cat": "Faceless Content",
+    "effort": "Low",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-168",
+    "title": "Newsletter sponsorships",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-176",
+    "title": "Short-form education content",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-192",
+    "title": "Niche job board + newsletter",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-21",
+    "title": "Hyperlocal town newsletter",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-253",
+    "title": "Figma UI kits",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-282",
+    "title": "Print-on-demand store",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-287",
+    "title": "Affiliate niche site",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-288",
+    "title": "Amazon review/comparison site",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-289",
+    "title": "Deals / coupon site",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-298",
+    "title": "Marketplace seller (Creative Market)",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-30",
+    "title": "Affiliate “best of” sites",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-308",
+    "title": "Personalized POD gifts",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-310",
+    "title": "Template marketplace storefront",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-311",
+    "title": "Sell on Creative Market",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-315",
+    "title": "Niche affiliate newsletter",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-316",
+    "title": "Deal-finding service",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-321",
+    "title": "Niche research reports",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-324",
+    "title": "Industry trend newsletter (paid)",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-335",
+    "title": "Niche statistics site",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-358",
+    "title": "“Best tools for X” research site",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-360",
+    "title": "Annual predictions reports",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-385",
+    "title": "Tourism guide sites",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-47",
+    "title": "VS Code extensions",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-57",
+    "title": "Email-to-app micro tools",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-63",
+    "title": "Niche aggregator sites",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-80",
+    "title": "Paid niche directories",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-97",
+    "title": "Icon set design & licensing",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-99",
+    "title": "Figma component libraries",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-102",
+    "title": "PDF / file utility web app",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-103",
+    "title": "Screenshot / mockup beautifier tool",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-112",
+    "title": "Niche directory web app (paid listings)",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-115",
+    "title": "Invoice / contract generator tool",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-119",
+    "title": "Niche link-in-bio / micro-page tool",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-120",
+    "title": "Viral web toy / browser game",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-122",
+    "title": "AI wall-art & poster shops",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-128",
+    "title": "Stock illustration & vector packs",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-138",
+    "title": "Canvas decor for niche homes",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-159",
+    "title": "Digital-then-print sticker subscriptions",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-162",
+    "title": "Niche \"best of\" affiliate sites",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-164",
+    "title": "Niche glossary / definitions sites",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-166",
+    "title": "\"Alternatives to [tool]\" page farms",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-168",
+    "title": "Long-tail Q&A answer sites",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-169",
+    "title": "Example & template libraries (SEO magnets)",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-170",
+    "title": "\"How much does X cost\" guides",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-172",
+    "title": "Single-niche SEO recipe/how-to site",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-179",
+    "title": "Tutorial / \"how to\" site at scale",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-181",
+    "title": "Programmatic name & idea generators",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-182",
+    "title": "Niche buyer’s-guide content hub",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-185",
+    "title": "\"Templates for X\" SEO → product funnel",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-186",
+    "title": "Conversion / reference utility site",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-191",
+    "title": "Programmatic \"[thing] care\" guides",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-194",
+    "title": "Word-game & \"words with\" SEO site",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-195",
+    "title": "Programmatic gift-guide site",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-200",
+    "title": "SEO-first newsletter content engine",
+    "cat": "Programmatic & SEO",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-201",
+    "title": "Productized AI ad-creative packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-214",
+    "title": "Seamless pattern & textile library",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-215",
+    "title": "Interior & exterior concept boards",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-227",
+    "title": "Mockup-scene subscription",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-249",
+    "title": "Email-flow template packs (Klaviyo etc.)",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-267",
+    "title": "Real-estate ops automation templates",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-283",
+    "title": "Sponsor-funded niche newsletter asset",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-286",
+    "title": "Pinterest traffic asset (sell the traffic)",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-290",
+    "title": "Faceless meme network → promo revenue",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-295",
+    "title": "Niche resource hub → affiliate",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-304",
+    "title": "Sell featured placements in your directory",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-306",
+    "title": "White-label your viral content format",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-311",
+    "title": "Membership for faceless content",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-313",
+    "title": "\"Best tools\" hub → affiliate + sponsor",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-316",
+    "title": "Sell ad space in your app/tool",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-321",
+    "title": "Curated niche dataset products",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-323",
+    "title": "Ethically-sourced company/lead lists",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-328",
+    "title": "Curated resource & link databases",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-331",
+    "title": "Salary & pricing benchmark reports",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-334",
+    "title": "Paid data & insights newsletter",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-341",
+    "title": "Annotated swipe-data library",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-35",
+    "title": "Micro-template \"of the week\" subscription",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-352",
+    "title": "Per-metro real-estate data reports",
+    "cat": "Data & Info",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-371",
+    "title": "Faceless screen-recorded video courses",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-374",
+    "title": "Templates + training combo products",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-376",
+    "title": "\"Learn [tool] in a weekend\" courses",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-395",
+    "title": "Business-model \"playbook\" courses",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-397",
+    "title": "Templated self-serve \"coaching\" program",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-40",
+    "title": "Niche \"swipe vault\" memberships",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-42",
+    "title": "Ambient long-play channels (rain, lofi, fireplaces)",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-43",
+    "title": "Pinterest traffic engine → affiliate blog",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-47",
+    "title": "Faceless niche theme pages (IG/TikTok)",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-50",
+    "title": "AI bedtime-story channel for kids",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-54",
+    "title": "Faceless recipe / food channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-55",
+    "title": "Virtual travel / \"tour the world\" channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-56",
+    "title": "Faceless meme-page → product funnel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-57",
+    "title": "\"What if\" scenario & sci-fi channels",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-58",
+    "title": "Faceless AI-tools / tech-tips channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-59",
+    "title": "Sleep stories & guided meditation channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-65",
+    "title": "Faceless \"top 10\" review channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-66",
+    "title": "Creepypasta / horror narration channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-67",
+    "title": "Faceless gadget / tech \"lore\" channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-72",
+    "title": "Faceless kids’ \"facts\" / learning channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-73",
+    "title": "Pinterest idea-pin engine for affiliate niches",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-76",
+    "title": "Niche faceless documentary shorts",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-78",
+    "title": "Faceless gaming lore / story channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-81",
+    "title": "A Chrome extension that kills one annoyance",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-84",
+    "title": "Notion-integration widgets & tools",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-85",
+    "title": "Vertical AI wrapper, self-serve",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-86",
+    "title": "Niche utility API on RapidAPI",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-91",
+    "title": "Slack / Discord bot with paid features",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-92",
+    "title": "Beautiful new-tab / dashboard extension",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-96",
+    "title": "AI calculator / tool microsites",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-97",
+    "title": "Google Sheets / Apps Script add-on",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-100",
+    "title": "Webflow / Framer templates",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-115",
+    "title": "PFP / collection art",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-14",
+    "title": "Children’s picture-book series",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-161",
+    "title": "Sell a focused mini-course",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-163",
+    "title": "Paid community / membership",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-167",
+    "title": "Course on using Claude",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-169",
+    "title": "Skool / Circle community",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-170",
+    "title": "Premium Discord server",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-171",
+    "title": "Webinar → high-ticket funnel",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-173",
+    "title": "Group coaching program",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-174",
+    "title": "Sell a recorded masterclass",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-183",
+    "title": "Build-in-public monetization",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-184",
+    "title": "Notion course + template combo",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-187",
+    "title": "Corporate training workshops",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-198",
+    "title": "Finance education content",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-199",
+    "title": "Fitness / wellness coaching content",
+    "cat": "Teaching & Audience",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-22",
+    "title": "“This week in X” industry brief",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-250",
+    "title": "Course-in-a-box (PLR)",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-252",
+    "title": "Curated datasets",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-259",
+    "title": "Icon packs",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-270",
+    "title": "TTRPG content packs",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-272",
+    "title": "Pitch-deck templates",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-280",
+    "title": "Membership template vault",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-290",
+    "title": "Domain research & flipping",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-314",
+    "title": "Stock content licensing",
+    "cat": "Commerce & Markets",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-337",
+    "title": "Investor research briefs",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-342",
+    "title": "Market research (compliant)",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-349",
+    "title": "Trend forecasting for brands",
+    "cat": "Data & Research",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-38",
+    "title": "Bedtime-story subscription",
+    "cat": "Writing & Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-383",
+    "title": "Local niche directory",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-384",
+    "title": "Hyperlocal events calendar",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-396",
+    "title": "Hobby community monetization",
+    "cat": "Local & Niche",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-45",
+    "title": "Paid Slack / Discord bots",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-46",
+    "title": "Figma / Canva plugins",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-49",
+    "title": "WordPress plugins",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-54",
+    "title": "Telegram bots & mini-apps",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-56",
+    "title": "Dev CLI tools (sponsorware)",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-65",
+    "title": "API monitoring / status tools",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-70",
+    "title": "Booking micro-SaaS",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-72",
+    "title": "PDF tools SaaS",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-73",
+    "title": "Screenshot / OG-image API",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-76",
+    "title": "Habit / streak apps",
+    "cat": "Build & Ship",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-85",
+    "title": "Presentation template shop",
+    "cat": "Design & Brand",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-10",
+    "title": "Social media carousel template subscriptions",
+    "cat": "Digital Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-106",
+    "title": "Creator-tool extension (thumbnail tester, etc.)",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-113",
+    "title": "AI caption / meme generator tool",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-121",
+    "title": "Print-on-demand apparel for one obsession",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-124",
+    "title": "KDP coloring books",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-140",
+    "title": "Puzzle & activity books",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-146",
+    "title": "Seasonal & holiday POD drops",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-148",
+    "title": "Slogan + art tee combos at volume",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-154",
+    "title": "SVG cut files for crafters",
+    "cat": "Print & Marketplace",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-205",
+    "title": "AI lookbook visuals for small brands",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-212",
+    "title": "AI book-cover design shop",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-216",
+    "title": "AI food-photography for menus & apps",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-217",
+    "title": "AI b-roll & stock-video packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-222",
+    "title": "Game-dev character & asset packs",
+    "cat": "AI Visual Studio",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-241",
+    "title": "Zapier / Make automation template packs",
+    "cat": "Automation Products",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-281",
+    "title": "Faceless niche X account → sponsorships",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-282",
+    "title": "Faceless visual IG → sponsor + licensing",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-287",
+    "title": "Marketplace \"creator partner\" royalties",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-289",
+    "title": "Async Discord community → memberships",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-296",
+    "title": "License designs to subscription platforms",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-297",
+    "title": "Canva-creator template royalties",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-298",
+    "title": "Faceless TikTok → inbound brand deals",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-310",
+    "title": "Faceless niche news/update account",
+    "cat": "Audience & Licensing",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-361",
+    "title": "Self-paced micro-courses on one skill",
+    "cat": "Self-Serve Learning",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-44",
+    "title": "Faceless \"fascinating facts\" short-form network",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-49",
+    "title": "Faceless history & mystery shorts",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-51",
+    "title": "Discipline / stoicism motivation channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-52",
+    "title": "Oddly-satisfying / ASMR visual channels",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-64",
+    "title": "Faceless language-learning shorts",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-74",
+    "title": "Faceless luxury / real-estate visual channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-77",
+    "title": "Historical \"day in the life\" reels",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-80",
+    "title": "\"Explained in 60 seconds\" science channel",
+    "cat": "Faceless Content",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-83",
+    "title": "Figma plugin on the Community",
+    "cat": "Micro-Software",
+    "effort": "Med",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-164",
+    "title": "Faceless YouTube channel",
+    "cat": "Teaching & Audience",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-208",
+    "title": "Paid ads management",
+    "cat": "Freelance Services",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-225",
+    "title": "AI integration consulting",
+    "cat": "Freelance Services",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-240",
+    "title": "Done-for-you course production",
+    "cat": "Freelance Services",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-284",
+    "title": "Content-led dropshipping",
+    "cat": "Commerce & Markets",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-300",
+    "title": "White-label + branding",
+    "cat": "Commerce & Markets",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-32",
+    "title": "White papers for fintech/crypto",
+    "cat": "Writing & Content",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-336",
+    "title": "“State of X” annual reports",
+    "cat": "Data & Research",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-382",
+    "title": "Local newsletter franchise",
+    "cat": "Local & Niche",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-392",
+    "title": "Real-estate investor tools",
+    "cat": "Local & Niche",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-397",
+    "title": "Niche podcast network",
+    "cat": "Local & Niche",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-42",
+    "title": "Sell Chrome extensions",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-48",
+    "title": "Shopify apps",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-55",
+    "title": "Small web games",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-62",
+    "title": "SaaS boilerplates (sell)",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-86",
+    "title": "UI kits & design systems",
+    "cat": "Design & Brand",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-100",
+    "title": "Sellable code boilerplates / starter kits",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-101",
+    "title": "Niche dataset-as-an-API",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-105",
+    "title": "Open-source tool with a paid pro tier",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-107",
+    "title": "Self-serve booking micro-tool for a niche",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-108",
+    "title": "Vertical AI form / quiz builder",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-109",
+    "title": "Habit / streak app with subscription",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-110",
+    "title": "Micro-tool portfolio (many tiny apps)",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-111",
+    "title": "Chrome-extension studio (portfolio)",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-114",
+    "title": "Resume / portfolio builder micro-SaaS",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-116",
+    "title": "Niche social scheduler",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-118",
+    "title": "Price-tracker / alert micro-SaaS",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-135",
+    "title": "Original tarot & oracle decks",
+    "cat": "Print & Marketplace",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-150",
+    "title": "Original fan-adjacent design universes",
+    "cat": "Print & Marketplace",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-160",
+    "title": "Self-serve AI portrait product",
+    "cat": "Print & Marketplace",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-161",
+    "title": "Programmatic \"X vs Y\" comparison sites",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-163",
+    "title": "Programmatic local directories",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-165",
+    "title": "Calculator-hub SEO network",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-167",
+    "title": "Programmatic stat & data pages",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-173",
+    "title": "Niche coupon / deals site",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-174",
+    "title": "Review-aggregator sites",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-175",
+    "title": "Programmatic \"near me\" pages",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-177",
+    "title": "Niche encyclopedia / mini-wiki",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-178",
+    "title": "Programmatic spec database site",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-183",
+    "title": "Niche job-board (programmatic)",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-189",
+    "title": "Programmatic travel-guide site",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-19",
+    "title": "Notion business OS for one vertical",
+    "cat": "Digital Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-190",
+    "title": "Free-tool + content combo site",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-192",
+    "title": "AI-built niche blog portfolio",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-193",
+    "title": "Programmatic horoscope / numerology site",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-198",
+    "title": "Public-data dashboard site",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-199",
+    "title": "Recipe-by-ingredient site",
+    "cat": "Programmatic & SEO",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-202",
+    "title": "UGC-style AI video ad packs",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-204",
+    "title": "Self-serve AI product photography",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-206",
+    "title": "Self-serve virtual staging tool",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-209",
+    "title": "Instant brand-visual-kit generator",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-211",
+    "title": "Self-serve children’s-illustration product",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-225",
+    "title": "Self-serve animated greeting product",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-226",
+    "title": "Self-serve gig-poster generator",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-233",
+    "title": "Ad-variant generator (productized)",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-234",
+    "title": "Self-serve photo restoration / enhance",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-235",
+    "title": "Self-serve AI headshot product",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-24",
+    "title": "Figma UI kits & design systems",
+    "cat": "Digital Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-243",
+    "title": "AI-agent recipe & template marketplace",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-250",
+    "title": "Niche social auto-poster tool",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-252",
+    "title": "Vertical \"automation pack\" for one trade",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-253",
+    "title": "AI workflow library subscription",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-257",
+    "title": "E-commerce ops automation packs",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-259",
+    "title": "Content-repurposing pipeline (productized)",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-262",
+    "title": "SEO automation toolkit",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-270",
+    "title": "Research-agent template product",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-276",
+    "title": "Meeting-notes → actions product",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-279",
+    "title": "Self-serve \"automation audit\" product",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-280",
+    "title": "Your own automation marketplace",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-299",
+    "title": "License a data feed to apps",
+    "cat": "Audience & Licensing",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-300",
+    "title": "Tool/quiz audience → sponsor",
+    "cat": "Audience & Licensing",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-302",
+    "title": "Faceless YouTube → mid-roll + clip licensing",
+    "cat": "Audience & Licensing",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-305",
+    "title": "Niche aggregator → premium sponsor tier",
+    "cat": "Audience & Licensing",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-307",
+    "title": "Automated \"deal of the day\" account",
+    "cat": "Audience & Licensing",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-315",
+    "title": "Niche forum/Q&A → ads + sponsor",
+    "cat": "Audience & Licensing",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-319",
+    "title": "Self-serve curated marketplace (take rate)",
+    "cat": "Audience & Licensing",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-322",
+    "title": "Industry trend report subscription",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-324",
+    "title": "Keyword & SEO datasets",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S2-325",
+    "title": "Niche market-research reports",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-326",
+    "title": "Productized data dashboards",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-327",
+    "title": "Sponsor-funded \"State of X\" report",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-332",
+    "title": "Public-opportunity data products",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-333",
+    "title": "Dataset-as-a-service",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-339",
+    "title": "Trend-spotting alert subscription",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-342",
+    "title": "Niche analytics reports",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-343",
+    "title": "\"Every X tool\" curated database",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-346",
+    "title": "Data-driven calculators (subscription)",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-348",
+    "title": "Live \"pulse\" dashboard subscription",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-349",
+    "title": "Curated funding/grant database",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-354",
+    "title": "Quarterly \"trends to watch\" product",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-355",
+    "title": "Your own niche data marketplace",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-364",
+    "title": "Interactive self-serve coding course",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-368",
+    "title": "AI-tutor product for a subject",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-370",
+    "title": "Exam & certification prep courses",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-373",
+    "title": "Microlearning daily-lesson app",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-375",
+    "title": "\"Build X with AI\" project courses",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-378",
+    "title": "Self-paced niche bootcamp",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-381",
+    "title": "Quiz-based learning product",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-383",
+    "title": "Skill video-library subscription",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-384",
+    "title": "Your own self-serve certification",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-386",
+    "title": "Practice-exercise generator (course)",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-387",
+    "title": "Self-serve \"mini-MBA\" business course",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-390",
+    "title": "Claude-API-powered interactive course",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-394",
+    "title": "Niche software tutorial library",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-396",
+    "title": "Interactive notebook courses",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-398",
+    "title": "Microcredential / skill-badge product",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-399",
+    "title": "Course bundle / mini-academy",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-41",
+    "title": "Faceless documentary-style YouTube",
+    "cat": "Faceless Content",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-53",
+    "title": "Faceless finance & money-explainer channel",
+    "cat": "Faceless Content",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-63",
+    "title": "AI webcomic / webtoon series",
+    "cat": "Faceless Content",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-69",
+    "title": "Faceless astrology / horoscope funnel",
+    "cat": "Faceless Content",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-79",
+    "title": "Niche aggregator account → newsletter",
+    "cat": "Faceless Content",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-82",
+    "title": "Painfully-specific micro-SaaS",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-88",
+    "title": "VS Code extension with a pro tier",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-89",
+    "title": "Shopify app for merchants",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-90",
+    "title": "WordPress plugin in the directory",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-94",
+    "title": "Single-purpose mobile utility app",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-98",
+    "title": "Email-client productivity plugin",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-12",
+    "title": "Ghostwrite business books",
+    "cat": "Writing & Content",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-120",
+    "title": "Design subscription service",
+    "cat": "Design & Brand",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-13",
+    "title": "Self-publish genre fiction",
+    "cat": "Writing & Content",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-160",
+    "title": "“AI ops” retainer for startups",
+    "cat": "Automation & Ops",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-162",
+    "title": "Cohort-based course",
+    "cat": "Teaching & Audience",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-175",
+    "title": "Sponsored niche podcast",
+    "cat": "Teaching & Audience",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-181",
+    "title": "Certification program",
+    "cat": "Teaching & Audience",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-191",
+    "title": "Recorded virtual summit",
+    "cat": "Teaching & Audience",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-195",
+    "title": "“Learn to build with AI” cohort",
+    "cat": "Teaching & Audience",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-200",
+    "title": "Build an audience, then sell access",
+    "cat": "Teaching & Audience",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-201",
+    "title": "Fractional content team",
+    "cat": "Freelance Services",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-262",
+    "title": "Starter kits & boilerplates",
+    "cat": "Digital Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-294",
+    "title": "Curated subscription box",
+    "cat": "Commerce & Markets",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-299",
+    "title": "Niche DTC brand",
+    "cat": "Commerce & Markets",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-312",
+    "title": "Sell on ThemeForest / Envato",
+    "cat": "Commerce & Markets",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-313",
+    "title": "App templates marketplace",
+    "cat": "Commerce & Markets",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-322",
+    "title": "Market analysis subscriptions",
+    "cat": "Data & Research",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-328",
+    "title": "Due diligence research",
+    "cat": "Data & Research",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-330",
+    "title": "Web-scraped datasets",
+    "cat": "Data & Research",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-332",
+    "title": "Financial model building",
+    "cat": "Data & Research",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-351",
+    "title": "Niche KPI dashboards (subs)",
+    "cat": "Data & Research",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-359",
+    "title": "B2B buyer-intent research",
+    "cat": "Data & Research",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-361",
+    "title": "Vertical SaaS for a trade",
+    "cat": "Local & Niche",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-394",
+    "title": "Municipal / gov RFP responses",
+    "cat": "Local & Niche",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Month"
+  },
+  {
+    "id": "S1-399",
+    "title": "Vertical AI assistant",
+    "cat": "Local & Niche",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-400",
+    "title": "Buy, build & flip niche sites",
+    "cat": "Local & Niche",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-41",
+    "title": "Ship a paid micro-SaaS",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-44",
+    "title": "“X as an API” wrappers",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-50",
+    "title": "Mobile utility apps",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-60",
+    "title": "Open-source + paid pro",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-64",
+    "title": "Vertical marketplace MVPs",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S1-78",
+    "title": "Membership-site tooling",
+    "cat": "Build & Ship",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-104",
+    "title": "Framer / Webflow code-component shop",
+    "cat": "Micro-Software",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-125",
+    "title": "KDP children’s picture books",
+    "cat": "Print & Marketplace",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-127",
+    "title": "Pen-name genre fiction catalog",
+    "cat": "Print & Marketplace",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-23",
+    "title": "Framer / Webflow site template shop",
+    "cat": "Digital Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-232",
+    "title": "Faceless virtual-influencer asset brand",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-240",
+    "title": "Thumbnail A/B generator + tester",
+    "cat": "AI Visual Studio",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-277",
+    "title": "Cross-posting tool for creators",
+    "cat": "Automation Products",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-312",
+    "title": "License original characters for merch",
+    "cat": "Audience & Licensing",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-320",
+    "title": "License an AI persona’s content",
+    "cat": "Audience & Licensing",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-337",
+    "title": "Clean ML training datasets",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-356",
+    "title": "Niche data API subscription",
+    "cat": "Data & Info",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-367",
+    "title": "Skillshare / Udemy royalty catalog",
+    "cat": "Self-Serve Learning",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  },
+  {
+    "id": "S2-46",
+    "title": "Quiz short-form → viral quiz site",
+    "cat": "Faceless Content",
+    "effort": "High",
+    "label": "swing",
+    "speed": "Long"
+  }
+]
