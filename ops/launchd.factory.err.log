@@ -6,3 +6,4 @@
 /Users/mariuskerkvliet/money-with-claude-factory/ops/dogfood-run.sh: line 44: 66780 Terminated: 15          ( sleep "$BUDGET"; kill -TERM "$NPID" 2> /dev/null; sleep 5; kill -KILL "$NPID" 2> /dev/null )
 /Users/mariuskerkvliet/money-with-claude-factory/ops/dogfood-run.sh: line 44: 68600 Terminated: 15          ( sleep "$BUDGET"; kill -TERM "$NPID" 2> /dev/null; sleep 5; kill -KILL "$NPID" 2> /dev/null )
 /Users/mariuskerkvliet/money-with-claude-factory/ops/dogfood-run.sh: line 44: 69640 Terminated: 15          ( sleep "$BUDGET"; kill -TERM "$NPID" 2> /dev/null; sleep 5; kill -KILL "$NPID" 2> /dev/null )
+/Users/mariuskerkvliet/money-with-claude-factory/ops/dogfood-run.sh: line 44: 74985 Terminated: 15          ( sleep "$BUDGET"; kill -TERM "$NPID" 2> /dev/null; sleep 5; kill -KILL "$NPID" 2> /dev/null )
