@@ -13,7 +13,7 @@
     <string>/usr/bin/caffeinate</string>
     <string>-s</string>
     <string>/bin/bash</string>
-    <string>/Users/mariuskerkvliet/money-with-claude-factory/run-factory.sh</string>
+    <string>/Users/mariuskerkvliet/money-with-claude-factory/ops/dogfood-run.sh</string>
   </array>
 
   <key>StartInterval</key>
