@@ -1,0 +1,149 @@
+{
+  "name": "The Rep Playbook",
+  "wordmark": "The Rep Playbook",
+  "shortName": "The Playbook",
+  "monogram": "RP",
+  "tagline": "Everything you wish someone told you before your first rep haul.",
+  "tagline_long": "The complete field manual for buying reps without getting scammed — sourcing, agents, QC, sizing, customs and legit-checks in one place.",
+  "one_liner": "The trusted, no-BS field manual that takes a first-time rep buyer from overwhelmed to confident in one read.",
+  "domain_config_key": "NEXT_PUBLIC_SITE_URL",
+  "default_domain": "therepplaybook.com",
+  "aesthetic": "Editorial field-manual. Warm paper/cream backgrounds, bold high-contrast serif display, a single confident rust accent, tasteful annotated diagrams and hairline rules. Reads like a well-made handbook written by someone who has actually done every step — the guide, never the salesman. Deliberately the opposite of HaulHQ's dark trader-terminal look so the two brands never blur.",
+  "fontKey": "fraunces",
+  "fonts": {
+    "note": "Two-font editorial system. Fraunces (variable soft serif) carries the book-cover / headline character; Inter carries all body, UI, captions and the printable cheat-sheets. Reading long-form in the web reader may optionally use Newsreader for a booky feel, but the shippable default keeps the load to two families. fontKey 'fraunces' is a new pairing for the launchpad fonts.ts (display=Fraunces, text=Inter) — add it there if not present.",
+    "display": {
+      "family": "Fraunces",
+      "css_var": "var(--font-fraunces)",
+      "fallback_stack": "'Fraunces', 'Georgia', 'Times New Roman', serif",
+      "weights": [400, 500, 600, 700, 900],
+      "opsz": "Use high optical size (opsz 100+) and SOFT/WONK axes at defaults for the warm editorial cut.",
+      "usage": "Book title / wordmark, hero headlines, chapter numbers and titles, cover spreads, big pull-quotes.",
+      "tracking": "Tighten to -0.01em / -0.02em at large display sizes."
+    },
+    "text": {
+      "family": "Inter",
+      "css_var": "var(--font-inter)",
+      "fallback_stack": "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+      "weights": [400, 500, 600, 700],
+      "usage": "Body copy, UI, buttons, labels, captions, FAQ, and all four printable cheat-sheets (kept sans for scannability)."
+    },
+    "reading_optional": {
+      "family": "Newsreader",
+      "fallback_stack": "'Newsreader', 'Iowan Old Style', Georgia, serif",
+      "weights": [400, 500, 600],
+      "usage": "Optional long-form reading serif for the gated web reader body and PDF body if a booky feel is wanted; not loaded by default to keep the site lean."
+    },
+    "google_fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,900&family=Inter:wght@400;500;600;700&display=swap"
+  },
+  "palette": {
+    "philosophy": "Light-first (paper) is the default everywhere — this is a book, not an app. One rust accent is the only brand color and is reserved for the wordmark mark, primary CTAs, chapter markers and key emphasis — never scattered as decoration. A dark 'ink cover' theme is provided for the hero/cover spread and the OG image where a bold book-jacket feel is wanted. Functional greens/reds/amber exist only for QC and customs semantics (accept / reject / customs-risk) inside diagrams and cheat-sheets.",
+    "light": {
+      "bg": "#FBF6EC",
+      "surface": "#F3EAD8",
+      "surfaceRaised": "#FFFFFF",
+      "ink": "#211C16",
+      "muted": "#5E5442",
+      "border": "#E3D8C2",
+      "accent": "#C1432A",
+      "accentDeep": "#A3341E",
+      "accentInk": "#FFFFFF",
+      "accentWash": "#F7E4DA",
+      "positive": "#2E6B43",
+      "danger": "#C0392B",
+      "warning": "#B26A00"
+    },
+    "dark": {
+      "bg": "#211C16",
+      "surface": "#2C251D",
+      "surfaceRaised": "#342C22",
+      "ink": "#FBF6EC",
+      "muted": "#B8AE9C",
+      "border": "#3A3226",
+      "accent": "#E86A4E",
+      "accentDeep": "#C1432A",
+      "accentInk": "#211C16",
+      "accentWash": "#3A2A22",
+      "positive": "#6FBF8B",
+      "danger": "#F07267",
+      "warning": "#E0A54A"
+    },
+    "wcag_aa_pairs": [
+      { "context": "light: body ink on paper bg", "fg": "#211C16", "bg": "#FBF6EC", "ratio": 15.69, "passes": "AAA" },
+      { "context": "light: ink on surface panel", "fg": "#211C16", "bg": "#F3EAD8", "ratio": 14.14, "passes": "AAA" },
+      { "context": "light: ink on white card", "fg": "#211C16", "bg": "#FFFFFF", "ratio": 16.90, "passes": "AAA" },
+      { "context": "light: muted text on paper bg", "fg": "#5E5442", "bg": "#FBF6EC", "ratio": 6.91, "passes": "AA" },
+      { "context": "light: muted text on surface panel", "fg": "#5E5442", "bg": "#F3EAD8", "ratio": 6.23, "passes": "AA" },
+      { "context": "light: rust accent as text/link on paper", "fg": "#C1432A", "bg": "#FBF6EC", "ratio": 4.75, "passes": "AA" },
+      { "context": "light: accentDeep small text/link on paper", "fg": "#A3341E", "bg": "#FBF6EC", "ratio": 6.36, "passes": "AA" },
+      { "context": "light: accentDeep on surface panel", "fg": "#A3341E", "bg": "#F3EAD8", "ratio": 5.73, "passes": "AA" },
+      { "context": "light CTA: white text on rust fill", "fg": "#FFFFFF", "bg": "#C1432A", "ratio": 5.12, "passes": "AA" },
+      { "context": "light CTA: white text on accentDeep fill", "fg": "#FFFFFF", "bg": "#A3341E", "ratio": 6.85, "passes": "AA" },
+      { "context": "light: accept/QC-pass green text on paper", "fg": "#2E6B43", "bg": "#FBF6EC", "ratio": 5.91, "passes": "AA" },
+      { "context": "light: reject/QC-fail red text on paper", "fg": "#C0392B", "bg": "#FBF6EC", "ratio": 5.05, "passes": "AA" },
+      { "context": "dark cover: ink on ink-cover bg", "fg": "#FBF6EC", "bg": "#211C16", "ratio": 15.69, "passes": "AAA" },
+      { "context": "dark cover: muted on ink-cover bg", "fg": "#B8AE9C", "bg": "#211C16", "ratio": 7.71, "passes": "AAA" },
+      { "context": "dark cover: bright rust accent on ink-cover bg", "fg": "#E86A4E", "bg": "#211C16", "ratio": 5.31, "passes": "AA" }
+    ],
+    "usage_rules": [
+      "Paper (#FBF6EC) is the default background for the whole site, reader and cheat-sheets. Do not ship a dark app UI — the dark 'ink' theme is only for the cover/hero spread and the OG image.",
+      "Rust accent fills only the primary CTA, the logo mark, chapter numbers and key emphasis. Text ON a rust fill is always white (#FFFFFF); use accentDeep (#A3341E) fill when white text needs extra headroom.",
+      "For rust as small text or links on paper, prefer accentDeep (#A3341E) — plain accent (#C1432A) passes AA but sits close to the 4.5 floor.",
+      "QC diagrams: accept/keep marks use positive green (#2E6B43), reject marks use danger red (#C0392B); customs / de-minimis / seizure risk callouts use warning amber (#B26A00). These are semantic only, never brand decoration.",
+      "Rules and card borders are 1px in --border. Editorial flourishes are allowed (thin double rules, drop-caps, chapter numerals) but no drop shadows, no gradients, no neon."
+    ]
+  },
+  "launchpad_css_vars": {
+    "note": "Feed into the launchpad components/theme.ts brandToCssVars() as the Brand object. Light (paper) is the product default; the dark object is for the cover/OG surfaces only.",
+    "accent": "#C1432A",
+    "accentInk": "#FFFFFF",
+    "bg": "#FBF6EC",
+    "surface": "#F3EAD8",
+    "ink": "#211C16",
+    "muted": "#5E5442",
+    "border": "#E3D8C2",
+    "radius": 8,
+    "fontKey": "fraunces",
+    "monogram": "RP"
+  },
+  "voice": {
+    "personality": "The trusted guide. Warm, confident, insider-but-welcoming — a friend who has done a hundred hauls sitting you down before your first one. Explains the jargon instead of hiding behind it. Never hypes, never sells hard; earns the cross-sell into HaulHQ and MurmReps by being genuinely useful first.",
+    "principles": [
+      "Teach, don't pitch. Every section leaves the reader more capable, even if they never buy.",
+      "Decode the slang the first time you use it (W2C, QC, GL, batch, de minimis) — the reader is a beginner, not stupid.",
+      "Be honest about risk and about limits. Customs figures are framed as 2026 estimates, not promises. Trust is the whole product.",
+      "Warm and plain-spoken. Short paragraphs, second person, no corporate hedging, no emoji.",
+      "Hand off naturally, never pushily: 'run your own numbers in HaulHQ', 'find it on MurmReps' — as helpful next steps, not ads."
+    ],
+    "do": [
+      "Before you send a cent, here's how to read a QC photo so you don't accept a bad pair.",
+      "W2C just means 'where to cop' — a link to the exact factory listing. Here's how to find a good one.",
+      "You will not get every package. Here's how to lower the odds of a seizure and what to do if one lands.",
+      "Once you know the steps, run the actual cost of your cart in HaulHQ before you check out."
+    ],
+    "dont": [
+      "Unlock the ULTIMATE rep buying secrets they don't want you to know!",
+      "The only guide you'll ever need to dominate the rep game.",
+      "Get designer looks for 90% off — guaranteed, no risk!",
+      "Any emoji-stuffed, hype-driven, guru marketing tone."
+    ],
+    "vocabulary": ["W2C", "QC", "GL", "batch", "haul", "agent", "de minimis", "consolidation", "shipping line", "legit-check", "sizing conversion", "seizure"]
+  },
+  "logo": {
+    "file": "logo.svg",
+    "concept": "An editorial book-jacket lockup: a rust-accented open-manual mark (open book with a bookmark ribbon = a trusted handbook) beside the serif wordmark, with a small tracked 'THE' label above 'Rep Playbook'. Self-contained on a paper panel so it renders on any background, mirroring the HaulHQ approach.",
+    "clearspace": "Keep clear space equal to the cap-height of the 'R' in 'Rep' on all sides.",
+    "min_width_px": 140,
+    "variants": [
+      "full lockup (logo.svg) — paper panel, ink wordmark, rust mark",
+      "RP monogram / open-manual mark only (isolate the left glyph) for favicons and avatars",
+      "single-color: ink #211C16 on paper, or paper #FBF6EC on the dark ink cover"
+    ],
+    "misuse": [
+      "Do not recolor the mark/bookmark to anything but the rust accent (#C1432A, or #E86A4E on dark).",
+      "Do not set the wordmark in a sans — the serif is the brand's book-cover signal.",
+      "Do not add gradients, shadows or outlines; keep it flat and editorial.",
+      "Do not stretch, condense or re-space the wordmark."
+    ]
+  }
+}
