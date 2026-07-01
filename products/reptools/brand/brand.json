@@ -1,0 +1,133 @@
+{
+  "name": "HaulHQ",
+  "wordmark": "HaulHQ",
+  "tagline": "The command center for your reps hauls.",
+  "tagline_long": "Real landed cost, cheapest-agent compare, and shareable haul lists.",
+  "one_liner": "The only rep-buyer tool built around LANDED cost and agent economics, not just link-collecting.",
+  "monogram": "HQ",
+  "domain_config_key": "NEXT_PUBLIC_SITE_URL",
+  "default_domain": "haulhq.app",
+  "aesthetic": "Utilitarian trader terminal. Dark-first UI, mono-ish tabular numerics, sharp cards with hairline borders, one electric-lime accent reserved for savings and CTAs. Insider and blunt, built by someone who actually buys reps.",
+  "fontKey": "grotesk",
+  "fonts": {
+    "note": "fontKey maps to the existing launchpad fonts.ts pairing. 'grotesk' = Space Grotesk for both display and text, which gives the technical/terminal feel while staying a single Google font load.",
+    "display": {
+      "family": "Space Grotesk",
+      "css_var": "var(--font-space-grotesk)",
+      "weights": [500, 600, 700],
+      "usage": "Hero headlines, section titles, wordmark, big money-saved numbers.",
+      "tracking": "Tighten to -0.02em on large sizes."
+    },
+    "text": {
+      "family": "Space Grotesk",
+      "css_var": "var(--font-space-grotesk)",
+      "weights": [400, 500],
+      "usage": "Body copy, labels, buttons, table cells."
+    },
+    "numeric": {
+      "family_stack": "ui-monospace, SFMono-Regular, \"SF Mono\", Menlo, Consolas, \"Liberation Mono\", monospace",
+      "usage": "Price/weight/landed-cost tables. Always apply font-variant-numeric: tabular-nums so columns align like a trading terminal.",
+      "css_snippet": "font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-variant-numeric: tabular-nums;"
+    },
+    "google_fonts_href": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap"
+  },
+  "palette": {
+    "philosophy": "Dark-first (default product/UI theme) with a light theme for docs, print haul summaries and OG light variant. Electric lime is the ONLY accent and is reserved for money-saved, savings deltas, primary CTAs and active states — never for decoration. Cyan is a secondary/info accent used sparingly for links and neutral highlights.",
+    "dark": {
+      "bg": "#0B0F10",
+      "surface": "#151B1C",
+      "surfaceRaised": "#1C2425",
+      "ink": "#F5F7F5",
+      "muted": "#9AA7A2",
+      "border": "#28312F",
+      "accent": "#B8FF35",
+      "accentInk": "#071008",
+      "accentDim": "#8FCB27",
+      "info": "#35E0FF",
+      "danger": "#FF5C5C",
+      "warning": "#FFC24B",
+      "positive": "#B8FF35"
+    },
+    "light": {
+      "bg": "#FFFFFF",
+      "surface": "#F4F6F3",
+      "surfaceRaised": "#FFFFFF",
+      "ink": "#0B0F10",
+      "muted": "#55605C",
+      "border": "#E2E7E2",
+      "accent": "#B8FF35",
+      "accentInk": "#071008",
+      "accentStrong": "#15723A",
+      "info": "#0F7FA0",
+      "danger": "#C62828",
+      "warning": "#B26A00",
+      "positive": "#15723A"
+    },
+    "wcag_aa_pairs": [
+      { "context": "dark: body text ink on bg", "fg": "#F5F7F5", "bg": "#0B0F10", "ratio": 17.89, "passes": "AAA" },
+      { "context": "dark: muted text on bg", "fg": "#9AA7A2", "bg": "#0B0F10", "ratio": 7.73, "passes": "AA" },
+      { "context": "dark: ink on card surface", "fg": "#F5F7F5", "bg": "#151B1C", "ratio": 16.18, "passes": "AAA" },
+      { "context": "dark: muted on card surface", "fg": "#9AA7A2", "bg": "#151B1C", "ratio": 6.99, "passes": "AA" },
+      { "context": "dark: lime savings number on bg", "fg": "#B8FF35", "bg": "#0B0F10", "ratio": 15.96, "passes": "AAA" },
+      { "context": "dark: lime savings on card surface", "fg": "#B8FF35", "bg": "#151B1C", "ratio": 14.43, "passes": "AAA" },
+      { "context": "CTA button: dark ink on lime fill", "fg": "#071008", "bg": "#B8FF35", "ratio": 16.01, "passes": "AAA" },
+      { "context": "dark: cyan info/link on bg", "fg": "#35E0FF", "bg": "#0B0F10", "ratio": 12.16, "passes": "AAA" },
+      { "context": "light: body ink on white", "fg": "#0B0F10", "bg": "#FFFFFF", "ratio": 19.27, "passes": "AAA" },
+      { "context": "light: muted on white", "fg": "#55605C", "bg": "#FFFFFF", "ratio": 6.53, "passes": "AA" },
+      { "context": "light: savings green text on white", "fg": "#15723A", "bg": "#FFFFFF", "ratio": 6.00, "passes": "AA" },
+      { "context": "light: ink on surface", "fg": "#0B0F10", "bg": "#F4F6F3", "ratio": 17.73, "passes": "AAA" },
+      { "context": "light CTA: dark ink on lime fill", "fg": "#071008", "bg": "#B8FF35", "ratio": 16.01, "passes": "AAA" }
+    ],
+    "usage_rules": [
+      "Accent lime (#B8FF35) fills only the primary CTA and money-saved chips; text ON lime must be accentInk (#071008), never white.",
+      "In light theme, do NOT use lime as text on white (fails contrast) — use accentStrong green (#15723A) for savings text/links and keep lime for fills with dark ink.",
+      "Savings deltas are always positive-green; overpay/tax-hit deltas use danger red; de-minimis/customs risk warnings use warning amber.",
+      "Cards: 1px border in --border, no drop shadows in dark theme (glow only via accent on hover). Radius 10px.",
+      "Numbers in tables use the numeric mono stack with tabular-nums."
+    ]
+  },
+  "launchpad_css_vars": {
+    "note": "Feed these into the existing components/theme.ts brandToCssVars() as the Brand object (dark theme is the product default).",
+    "accent": "#B8FF35",
+    "accentInk": "#071008",
+    "bg": "#0B0F10",
+    "surface": "#151B1C",
+    "ink": "#F5F7F5",
+    "muted": "#9AA7A2",
+    "border": "#28312F",
+    "radius": 10,
+    "fontKey": "grotesk",
+    "monogram": "HQ"
+  },
+  "voice": {
+    "personality": "Insider, blunt, numeric, pro-buyer. Talks like a veteran rep buyer in a Discord you trust, not a SaaS landing page.",
+    "principles": [
+      "Lead with the number. Money saved is the hero metric everywhere.",
+      "Use the community's real vocabulary: W2C, QC, de minimis, consolidation, haul, agent, shipping line, volumetric.",
+      "Be honest about limits (e.g. 'no live scraping yet') — trust is the moat with this audience.",
+      "Short, declarative sentences. No fluff, no corporate hedging, no emoji.",
+      "Second person. Speak to one buyer planning one haul."
+    ],
+    "do": [
+      "You'd save $37 going with Agent X.",
+      "Your $540 haul lands at $611 after VAT. Here's the split that keeps you under de minimis.",
+      "Real landed cost. Before you pay.",
+      "Stop guessing your agent shipping. Compare the same cart across CNFans, Kakobuy and Superbuy."
+    ],
+    "dont": [
+      "Revolutionize your shopping journey!",
+      "The ultimate all-in-one solution for enthusiasts.",
+      "Unlock powerful synergies. (empty hype)",
+      "Any emoji-stuffed marketing tone."
+    ],
+    "vocabulary": ["W2C", "QC", "de minimis", "consolidation", "haul", "agent", "shipping line", "volumetric weight", "landed cost", "VAT", "split-shipment"]
+  },
+  "logo": {
+    "file": "logo.svg",
+    "concept": "Wordmark 'HaulHQ' with an 'HQ' terminal-cursor mark: a sharp bracket/box glyph evoking a command line + a shipping-crate corner, with a rising lime savings bar as the crossbar. Reads as 'command center' + 'money down / cost'.",
+    "clearspace": "Keep clear space equal to the cap-height of the 'H' on all sides.",
+    "min_width_px": 96,
+    "variants": ["full wordmark (logo.svg)", "HQ monogram mark (isolate the left glyph)", "single-color: use #F5F7F5 on dark, #0B0F10 on light"],
+    "misuse": ["Do not recolor the accent bar to anything but lime (#B8FF35).", "Do not add gradients or shadows.", "Do not stretch or re-space the wordmark."]
+  }
+}

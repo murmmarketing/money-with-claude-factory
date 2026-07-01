@@ -4,6 +4,7 @@ cron.log
 kits/*.zip
 launchpad/.env.local
 launchpad/.next/
+launchpad/.vercel
 launchpad/build.log
 launchpad/build2.log
 launchpad/build3.log
@@ -14,4 +15,9 @@ launchpad/server.log
 launchpad/tsconfig.tsbuildinfo
 ledger.jsonl
 ops/state.json
-launchpad/.vercel
+products/reptools/.env
+products/reptools/.env.local
+products/reptools/.next
+products/reptools/.vercel
+products/reptools/node_modules
+products/reptools/tsconfig.tsbuildinfo

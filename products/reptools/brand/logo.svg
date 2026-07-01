@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="128" viewBox="0 0 520 128" role="img" aria-label="HaulHQ">
+  <title>HaulHQ</title>
+  <desc>HaulHQ wordmark: a terminal-frame haul-cost mark with an ascending electric-lime savings bar chart, next to the wordmark Haul (light) HQ (lime).</desc>
+
+  <!-- Self-contained trader-terminal panel so the mark renders on any background -->
+  <rect x="2" y="2" width="516" height="124" rx="16" fill="#0B0F10" stroke="#28312F" stroke-width="2"/>
+
+  <!-- Mark: terminal frame + ascending landed-cost / savings bars -->
+  <g>
+    <!-- open-corner terminal frame -->
+    <rect x="30" y="31" width="66" height="66" rx="12" fill="none" stroke="#E7ECEA" stroke-width="3.5"/>
+    <!-- corner accents (command brackets) -->
+    <path d="M30 50 L30 43 Q30 31 42 31 L49 31" fill="none" stroke="#B8FF35" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M96 78 L96 85 Q96 97 84 97 L77 97" fill="none" stroke="#B8FF35" stroke-width="3.5" stroke-linecap="round"/>
+    <!-- ascending bars: cost climbing, savings highlighted -->
+    <rect x="44" y="72" width="9" height="14" rx="2" fill="#8FCB27"/>
+    <rect x="59" y="62" width="9" height="24" rx="2" fill="#8FCB27"/>
+    <rect x="74" y="50" width="9" height="36" rx="2" fill="#B8FF35"/>
+    <!-- baseline -->
+    <rect x="42" y="88" width="43" height="3" rx="1.5" fill="#28312F"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="122" y="83"
+        font-family="'Space Grotesk', 'Inter', -apple-system, system-ui, 'Segoe UI', Roboto, sans-serif"
+        font-size="52" font-weight="600" letter-spacing="-1.2">
+    <tspan fill="#F5F7F5">Haul</tspan><tspan fill="#B8FF35">HQ</tspan>
+  </text>
+</svg>
