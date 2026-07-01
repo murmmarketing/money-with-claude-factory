@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import CoreCanvas from "./CoreCanvas";
 import {
-  CATS, CHANNELS, STAGES, monthKey, monthShort, monthsBack, seedDemo,
+  CATS, CHANNELS, STAGES, monthKey, monthShort, monthsBack,
 } from "./seed";
 import {
   ACCENT, allTime, compact, css, fmtVal, growth, last, money, prev, rgba,
@@ -15,7 +15,7 @@ import type {
 
 export const dynamic = "force-static";
 
-const PERSIST_KEY = "mmc.factory.v1";
+const PERSIST_KEY = "mmc.factory.v2";
 const ACC = ACCENT;
 
 /* ---------- small presentational helpers ---------- */
@@ -62,8 +62,8 @@ function CountUp({
 
 export default function Deck() {
   const [mounted, setMounted] = useState(false);
-  const [ventures, setVentures] = useState<Venture[]>(() => seedDemo());
-  const [isDemo, setIsDemo] = useState(true);
+  const [ventures, setVentures] = useState<Venture[]>(() => []);
+  const [isDemo, setIsDemo] = useState(false);
   const [stage, setStage] = useState<string>("all");
   const [sort, setSort] = useState<string>("mrr");
   const [expanded, setExpanded] = useState<Record<string, boolean>>({});
@@ -256,8 +256,8 @@ export default function Deck() {
   };
 
   const resetDemo = () => {
-    setVentures(seedDemo());
-    setIsDemo(true);
+    setVentures([]);
+    setIsDemo(false);
     setExpanded({});
     setSelectedId(null);
     setStage("all");
@@ -500,7 +500,7 @@ export default function Deck() {
       showEmpty: listOut.length === 0,
       emptyTitle: stage === "all" ? "No ventures in the factory." : "Nothing in this stage.",
       emptyHint: stage === "all" ? "Launch your first faceless business to start tracking telemetry." : "Move a venture here, or view all.",
-      showReset: isDemo, monthOpts,
+      showReset: ventures.length > 0, monthOpts,
     };
   }, [ventures, stage, sort, expanded, selectedId, intro, isDemo]);
 
@@ -843,7 +843,7 @@ export default function Deck() {
         <div style={{ borderTop: "1px solid rgba(120,140,135,.12)", marginTop: "20px" }}>
           <div style={{ maxWidth: "1180px", margin: "0 auto", padding: "24px 26px 60px", display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: "12px" }}>
             <span style={{ fontSize: "12px", color: "#4d5a55", maxWidth: "66ch", lineHeight: 1.5, fontFamily: labelMono }}>// A private command deck for the faceless businesses you actually run. All telemetry lives in your browser — nothing transmitted. Log a month whenever you check your dashboards; the core re-calibrates automatically.</span>
-            {D.showReset && <span className="lp-reset" onClick={resetDemo} style={{ cursor: "pointer", fontSize: "10.5px", color: "#4d5a55", fontFamily: labelMono, border: "1px solid rgba(120,140,135,.2)", borderRadius: "5px", padding: "6px 11px" }}>↻ RESET DEMO DATA</span>}
+            {D.showReset && <span className="lp-reset" onClick={resetDemo} style={{ cursor: "pointer", fontSize: "10.5px", color: "#4d5a55", fontFamily: labelMono, border: "1px solid rgba(120,140,135,.2)", borderRadius: "5px", padding: "6px 11px" }}>↻ RESET</span>}
           </div>
         </div>
       </div>
