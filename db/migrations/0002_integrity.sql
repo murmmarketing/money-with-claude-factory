@@ -9,14 +9,10 @@
 
 begin;
 
--- (1) Revoke all anon write access. anon can no longer INSERT signups/events.
-drop policy if exists signups_anon_insert on public.signups;
-drop policy if exists events_anon_insert  on public.events;
-revoke insert on public.signups from anon;
-revoke insert on public.events  from anon;
--- Defensive: strip any stray anon grants on these tables.
-revoke all on public.signups from anon;
-revoke all on public.events  from anon;
+-- (1) Anon write LOCKDOWN has been MOVED to 0006_lockdown.sql.
+--     Apply 0006 ONLY after FACTORY_SERVICE_ROLE_KEY is set in .factory.env + Vercel,
+--     otherwise the live waitlist (which still falls back to the anon key) starts
+--     returning 500s. Everything below is additive/safe to apply now.
 
 -- (2) Abuse / provenance columns on signups.
 alter table public.signups add column if not exists ip_hash     text;
