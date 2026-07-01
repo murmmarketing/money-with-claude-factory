@@ -1,0 +1,5 @@
+# contrast (WCAG) — S1-241
+accent: #2f6df6   bg: #ffffff   (source: default (launchpad accent))
+contrast(accent, #ffffff) = 4.53  (need >= 4.5) -> ok
+contrast(accent, bg)      = 4.53  (need >= 4.5) -> ok
+result: PASS

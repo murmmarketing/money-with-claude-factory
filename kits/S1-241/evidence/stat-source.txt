@@ -1,0 +1,4 @@
+# stat-source — S1-241
+scanned 4 markdown file(s)
+result: PASS (no unsourced stats)
+

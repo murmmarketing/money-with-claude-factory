@@ -1,0 +1,11 @@
+# price-coherence — S1-241
+
+| source            | distinct prices        |
+|-------------------|------------------------|
+| README.md         | $29, $39, $79 |
+| landing-copy.md   | $29, $39 |
+| YOUR-MOVE.md      | $29, $39, $79 |
+
+landing ⊆ README : YES
+
+result: PASS

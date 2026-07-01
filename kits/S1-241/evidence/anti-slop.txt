@@ -1,0 +1,5 @@
+# anti-slop — S1-241
+scanned 4 markdown file(s)
+result: FAIL (1 matches)
+
+README.md:39  [unfilled bracket "[insert" / "[your"]  "[YOUR"  ::  6. **[YOUR MOVE]** post the 3 launch pieces (`marketing.md`) and give the free teaser away. See

@@ -1,9 +1,16 @@
 .factory.env
+.run.lock/
 cron.log
 kits/*.zip
 launchpad/.env.local
 launchpad/.next/
 launchpad/build.log
+launchpad/build2.log
+launchpad/build3.log
+launchpad/ib.log
 launchpad/next-env.d.ts
 launchpad/node_modules/
 launchpad/server.log
+launchpad/tsconfig.tsbuildinfo
+ledger.jsonl
+ops/state.json

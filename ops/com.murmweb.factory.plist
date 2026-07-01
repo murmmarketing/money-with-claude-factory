@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.murmweb.factory</string>
+
+  <!-- Wrap the runner in `caffeinate -s` so a hourly build cannot be interrupted by
+       system sleep. run-factory.sh owns its own atomic lock + whole-run timeout, so a
+       missed/overlapping tick is harmless. -->
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/caffeinate</string>
+    <string>-s</string>
+    <string>/bin/bash</string>
+    <string>/Users/mariuskerkvliet/money-with-claude-factory/run-factory.sh</string>
+  </array>
+
+  <key>StartInterval</key>
+  <integer>3600</integer>
+
+  <key>RunAtLoad</key>
+  <false/>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/mariuskerkvliet/money-with-claude-factory</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/Users/mariuskerkvliet/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+
+  <key>ProcessType</key>
+  <string>Background</string>
+
+  <key>StandardOutPath</key>
+  <string>/Users/mariuskerkvliet/money-with-claude-factory/ops/launchd.factory.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/mariuskerkvliet/money-with-claude-factory/ops/launchd.factory.err.log</string>
+</dict>
+</plist>

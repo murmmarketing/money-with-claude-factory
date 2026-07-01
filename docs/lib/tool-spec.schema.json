@@ -1,0 +1,76 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "factory://tool-spec.schema.json",
+  "title": "Factory Tool Spec",
+  "description": "Data-only description of a calculator/generator tool. Rendered by the single generic /tool/[id] route. NEVER a per-idea route file.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "title", "type", "inputs", "outputs", "tests"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[A-Za-z0-9-]+$" },
+    "title": { "type": "string", "minLength": 3 },
+    "type": { "type": "string", "enum": ["calculator", "generator"] },
+    "description": { "type": "string" },
+    "inputs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "label", "type"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-zA-Z_][a-zA-Z0-9_]*$" },
+          "label": { "type": "string", "minLength": 1 },
+          "type": { "type": "string", "enum": ["number", "select", "text", "boolean"] },
+          "default": {},
+          "min": { "type": "number" },
+          "max": { "type": "number" },
+          "step": { "type": "number" },
+          "unit": { "type": "string" },
+          "options": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["value", "label"],
+              "properties": {
+                "value": {},
+                "label": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "outputs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "label", "expr"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-zA-Z_][a-zA-Z0-9_]*$" },
+          "label": { "type": "string", "minLength": 1 },
+          "expr": { "type": "string", "minLength": 1 },
+          "unit": { "type": "string" },
+          "format": { "type": "string", "enum": ["number", "currency", "percent", "integer"] },
+          "decimals": { "type": "integer", "minimum": 0, "maximum": 8 }
+        }
+      }
+    },
+    "tests": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["inputs", "expect"],
+        "properties": {
+          "inputs": { "type": "object" },
+          "expect": { "type": "object" },
+          "tol": { "type": "number", "minimum": 0 }
+        }
+      }
+    }
+  }
+}
