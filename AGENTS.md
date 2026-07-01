@@ -15,10 +15,11 @@ with ZERO memory, so the repo IS your memory. Follow this loop exactly.
 
 ### 1. Orient (read your memory)
 - Read `data/run-order.json` — the prioritized list of idea ids.
-- **Authoritative "already done" check = Gmail.** Search Gmail (`[Idea Factory]`) and collect
-  every idea id that appears in a `Done: <id>,<id>,...` line of a past Factory email. These are DONE.
+- **Authoritative "already done" check = your Gmail drafts.** Call `list_drafts` (and
+  `search_threads` for `[Idea Factory]`) and collect every idea id that appears in a
+  `Done: <id>,<id>,...` line of a past Factory draft/email. These are DONE.
   (Git push may not be available in this environment, so do NOT rely on `kits/` folders alone —
-  but if `kits/<id>/` exists, treat that id as done too. Union both sources.)
+  but if `kits/<id>/` exists, treat that id as done too. Union all sources.)
 - The **batch** = the first **3** ids in run-order that are NOT in the done set.
   (If `BATCH_SIZE` is set in the run prompt, use that instead of 3.)
 
@@ -51,8 +52,9 @@ MurmReps/CAIRN/murmweb.dev, wire the kit to that existing distribution explicitl
 ### 4. Commit + push
 - `git add -A && git commit -m "factory: build kits for <ids>" && git push`.
 
-### 5. Report to owner (Gmail)
-Send ONE email to pawtix.store@gmail.com:
+### 5. Report to owner (Gmail draft)
+Create ONE Gmail **draft** (tool: `create_draft`) addressed to pawtix.store@gmail.com
+(the draft lands in the owner's Drafts as the delivery):
 - Subject: `[Idea Factory] N new launch kits ready — <date>`
 - Body, in this order:
   1. A `Done: <id>,<id>,<id>` line near the TOP (machine-readable state — REQUIRED, this is how
