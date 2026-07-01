@@ -17,7 +17,10 @@ async function getSpec(id: string): Promise<ToolSpec | null> {
     .eq('id', id)
     .eq('live', true)
     .maybeSingle();
-  return (data as ToolSpec) || null;
+  if (!data) return null;
+  // The ToolSpec fields live in the `spec` jsonb column; flatten them onto the row.
+  const row = data as any;
+  return { ...(row.spec || {}), id: row.id, live: row.live, promoted: row.promoted } as ToolSpec;
 }
 
 export async function generateMetadata({ params }: { params: { id: string } }) {
