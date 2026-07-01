@@ -6,9 +6,10 @@ An autonomous **Claude Code cloud agent** that works through 800 money-making id
 ## How it works
 - A scheduled routine (claude.ai/code/routines) wakes on a cron, clones this repo, and follows
   [`AGENTS.md`](./AGENTS.md).
-- Each run it picks the next 3 ideas from [`data/run-order.json`](./data/run-order.json) that
-  don't yet have a `kits/<id>/` folder, builds full launch kits, commits them here, and emails me.
-- **The repo is the agent's memory** — done = a folder exists in `kits/`.
+- Each run it picks the next 3 ideas from [`data/run-order.json`](./data/run-order.json), builds
+  full launch kits, and **delivers them over Telegram** (summary message + a zip of each kit).
+- **The agent's memory is a pinned Telegram message** (`DONE: <ids>`) — no repo write needed.
+  Git push here is a best-effort bonus archive.
 
 ## What's where
 | Path | What |
