@@ -198,5 +198,41 @@ export function seedInitial(): Venture[] {
         { ts: monthKey(0), text: "Launched — live at rep-playbook-claude-5fc19916.vercel.app" },
       ],
     },
+    {
+      id: "ats-resume-vault", name: "ResumeVault", ideaN: null,
+      cat: "product", channel: "Programmatic SEO", model: "oneoff", stage: "launch",
+      goal: 1500, created: Date.parse("2026-07-01"), demo: false, traffic: [],
+      tasks: [
+        { t: "Connect Stripe ($19 kit + $59 vault + webhook)", done: false },
+        { t: "Proofread 2 sample industry kits before publish", done: false },
+        { t: "Ship programmatic /resume/[industry] pages + submit sitemap", done: false },
+      ],
+      history: [],
+      events: [{ ts: monthKey(0), text: "Launched — live at ats-resume-vault.vercel.app (idea S2-3)" }],
+    },
+    {
+      id: "quickconvert", name: "QuickConvert", ideaN: null,
+      cat: "build", channel: "Programmatic SEO", model: "sub", stage: "launch",
+      goal: 500, created: Date.parse("2026-07-01"), demo: false, traffic: [],
+      tasks: [
+        { t: "Connect Stripe Pro ($5/mo + $39/yr + webhook)", done: false },
+        { t: "Add ad network ID for the free tier", done: false },
+        { t: "Expand to 15+ converters, one page each", done: false },
+      ],
+      history: [],
+      events: [{ ts: monthKey(0), text: "Launched — live at quickconvert-tools.vercel.app (idea S1-75)" }],
+    },
+    {
+      id: "meaning-and-say", name: "MeaningAndSay", ideaN: null,
+      cat: "seo", channel: "Programmatic SEO", model: "oneoff", stage: "launch",
+      goal: 500, created: Date.parse("2026-07-01"), demo: false, traffic: [],
+      tasks: [
+        { t: "Add ad network ID (primary monetization)", done: false },
+        { t: "Connect Stripe for the $4 pronunciation packs", done: false },
+        { t: "Expand corpus from ~300 to thousands of terms + submit sitemap", done: false },
+      ],
+      history: [],
+      events: [{ ts: monthKey(0), text: "Launched — live at meaning-and-say.vercel.app (idea S2-197)" }],
+    },
   ];
 }

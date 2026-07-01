@@ -15,7 +15,7 @@ import type {
 
 export const dynamic = "force-static";
 
-const PERSIST_KEY = "mmc.factory.v4";
+const PERSIST_KEY = "mmc.factory.v5";
 const ACC = ACCENT;
 
 /* ---------- small presentational helpers ---------- */
