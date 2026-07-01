@@ -36,8 +36,11 @@ delete from public.signups s
 using ranked r
 where s.id = r.id and r.rn > 1;
 
+-- Plain (idea_id, email) so /api/wait's upsert onConflict:'idea_id,email' matches.
+-- Emails are always lowercased by normalizeEmail() before write, so this is
+-- equivalent to a case-insensitive constraint without an expression index.
 create unique index if not exists signups_idea_email_uniq
-  on public.signups (idea_id, lower(email));
+  on public.signups (idea_id, email);
 
 -- (4) Event provenance + A/B variant.
 alter table public.events add column if not exists ip_hash text;

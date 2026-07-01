@@ -59,23 +59,21 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: 'unavailable' }, { status: 503 });
   }
 
-  // (e) Idempotent upsert: a returning visitor re-submitting never double-counts
-  // and never 500s. Conflict target is the (idea_id, email) dedup index from
-  // db item 0002; email is already lowercased so a plain unique index matches.
-  const { error } = await supabase.from('signups').upsert(
-    {
-      idea_id: ideaId,
-      email,
-      session_id: sessionId,
-      utm,
-      referred_by: referredBy,
-      ip_hash,
-      ua,
-    },
-    { onConflict: 'idea_id,email', ignoreDuplicates: true }
-  );
+  // (e) Idempotent insert. We use a plain INSERT (not upsert) because anon upsert
+  // trips RLS; the (idea_id, email) unique index from 0002 makes a re-submit raise
+  // 23505, which we treat as success so a returning visitor never double-counts or
+  // 500s. Works identically once the service-role key is set (it bypasses RLS).
+  const { error } = await supabase.from('signups').insert({
+    idea_id: ideaId,
+    email,
+    session_id: sessionId,
+    utm,
+    referred_by: referredBy,
+    ip_hash,
+    ua,
+  });
 
-  if (error) {
+  if (error && (error as any).code !== '23505') {
     // Do not leak DB internals; treat as generic failure.
     return NextResponse.json({ error: 'invalid' }, { status: 400 });
   }

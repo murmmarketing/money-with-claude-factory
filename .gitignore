@@ -14,3 +14,4 @@ launchpad/server.log
 launchpad/tsconfig.tsbuildinfo
 ledger.jsonl
 ops/state.json
+launchpad/.vercel
