@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import CoreCanvas from "./CoreCanvas";
 import {
-  CATS, CHANNELS, STAGES, monthKey, monthShort, monthsBack, seedHaulHQ,
+  CATS, CHANNELS, STAGES, monthKey, monthShort, monthsBack, seedInitial,
 } from "./seed";
 import {
   ACCENT, allTime, compact, css, fmtVal, growth, last, money, prev, rgba,
@@ -15,7 +15,7 @@ import type {
 
 export const dynamic = "force-static";
 
-const PERSIST_KEY = "mmc.factory.v3";
+const PERSIST_KEY = "mmc.factory.v4";
 const ACC = ACCENT;
 
 /* ---------- small presentational helpers ---------- */
@@ -62,7 +62,7 @@ function CountUp({
 
 export default function Deck() {
   const [mounted, setMounted] = useState(false);
-  const [ventures, setVentures] = useState<Venture[]>(() => seedHaulHQ());
+  const [ventures, setVentures] = useState<Venture[]>(() => seedInitial());
   const [isDemo, setIsDemo] = useState(false);
   const [stage, setStage] = useState<string>("all");
   const [sort, setSort] = useState<string>("mrr");
@@ -256,7 +256,7 @@ export default function Deck() {
   };
 
   const resetDemo = () => {
-    setVentures(seedHaulHQ());
+    setVentures(seedInitial());
     setIsDemo(false);
     setExpanded({});
     setSelectedId(null);

@@ -150,7 +150,7 @@ export function seedDemo(): Venture[] {
   ];
 }
 
-export function seedHaulHQ(): Venture[] {
+export function seedInitial(): Venture[] {
   return [
     {
       id: "haulhq",
@@ -173,6 +173,29 @@ export function seedHaulHQ(): Venture[] {
       history: [], // zero revenue logged yet
       events: [
         { ts: monthKey(0), text: "Launched — free Haul Builder live at haulhq.vercel.app" },
+      ],
+    },
+    {
+      id: "rep-playbook",
+      name: "The Rep Playbook",
+      ideaN: null,
+      cat: "product", // Digital Products
+      channel: "Blog/SEO",
+      model: "oneoff", // $19 one-time
+      stage: "launch", // deployed & live (waitlist mode until Stripe connected)
+      goal: 1000,
+      created: Date.parse("2026-07-01"),
+      demo: false,
+      traffic: [],
+      tasks: [
+        { t: "Connect Stripe (create $19 one-time price + webhook)", done: false },
+        { t: "Connect Resend (magic-link delivery for downloads)", done: false },
+        { t: "Cross-sell from HaulHQ + the MurmReps newsletter", done: false },
+        { t: "Point a domain + fill legal placeholders", done: false },
+      ],
+      history: [], // zero revenue logged yet
+      events: [
+        { ts: monthKey(0), text: "Launched — live at rep-playbook-claude-5fc19916.vercel.app" },
       ],
     },
   ];
