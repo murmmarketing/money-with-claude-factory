@@ -60,6 +60,24 @@ Read the full record from `data/ideas_all.json` (match `id`). Create:
 - `YOUR-MOVE.md` — the short human-only list (connect Stripe/Gumroad, approve, publish, domain).
 Quality bar: launchable in under an hour. Wire to MurmReps/CAIRN/murmweb.dev when relevant.
 
+## STEP 2.5 — VERIFY each kit before it ships (the loop's verifier)
+A loop without a verifier is just a faster way to be wrong. Before delivering, grade each kit
+against this rubric. For each FAIL, rewrite the offending file, then re-grade. Max **2** fix
+passes per kit (the stop condition) — if it still fails, deliver it but prepend `⚠️ needs review`
+to its Telegram summary so the owner knows.
+
+Rubric (every item must PASS):
+1. **Real deliverable** — the main artifact contains actual usable content (a real template /
+   working `index.html` / real copy), NOT advice, placeholders, "you could…", TODO, or lorem.
+2. **Concrete offer** — README names a specific target customer, a specific price, and a numbered
+   "Launch in 60 minutes" list that ends in human-only steps.
+3. **Landing copy** — has headline, subhead, ≥3 benefit bullets, and a CTA.
+4. **Marketing** — 3 pieces, each naming a SPECIFIC place to post (not "social media").
+5. **YOUR-MOVE** — lists only things a human must do, each concrete and doable today.
+6. **Coherence** — price in README matches landing copy; no contradictions; no leftover template text.
+
+Only kits that pass (or hit the 2-pass cap with the ⚠️ flag) proceed to STEP 3.
+
 ## STEP 3 — Deliver each kit to Telegram
 Per id: `sendMessage` a summary (<3500 chars: `🏭 <id> — <title>`, offer, price, launch-in-60 gist,
 2-3 YOUR MOVE steps), then `cd kits && zip -r <id>.zip <id>` and
@@ -77,3 +95,6 @@ Per id: `sendMessage` a summary (<3500 chars: `🏭 <id> — <title>`, offer, pr
 - Never redo an id in DONE. Never build an id in SKIP.
 - Real artifacts only. Retry a failed Telegram call once. If delivery fails, don't mark it DONE.
 - Always process commands (Step 0) even when PAUSED. 3 ideas done well > 20 half-done.
+- **Verifier + stop condition (the one rule for every loop):** every kit passes STEP 2.5 before
+  shipping, and each kit gets at most 2 fix passes. The run itself does exactly BATCH ideas then
+  stops — it never loops unbounded.
