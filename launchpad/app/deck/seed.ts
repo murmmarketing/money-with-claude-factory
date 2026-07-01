@@ -149,3 +149,31 @@ export function seedDemo(): Venture[] {
     },
   ];
 }
+
+export function seedHaulHQ(): Venture[] {
+  return [
+    {
+      id: "haulhq",
+      name: "HaulHQ",
+      ideaN: null,
+      cat: "build", // Micro-Software
+      channel: "Email/Newsletter", // MurmReps newsletter distribution
+      model: "sub", // $6/mo Pro
+      stage: "launch", // deployed & live
+      goal: 2000,
+      created: Date.parse("2026-07-01"),
+      demo: false,
+      traffic: [],
+      tasks: [
+        { t: "Connect Stripe ($6/mo + $48/yr price IDs + webhook)", done: false },
+        { t: "Connect Resend (verify domain) for Pro login emails", done: false },
+        { t: "Seed HaulHQ to the MurmReps newsletter", done: false },
+        { t: "Point a real domain + fill legal placeholders", done: false },
+      ],
+      history: [], // zero revenue logged yet
+      events: [
+        { ts: monthKey(0), text: "Launched — free Haul Builder live at haulhq.vercel.app" },
+      ],
+    },
+  ];
+}
