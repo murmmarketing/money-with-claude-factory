@@ -1,3 +1,9 @@
 .factory.env
 cron.log
 kits/*.zip
+launchpad/.env.local
+launchpad/.next/
+launchpad/build.log
+launchpad/next-env.d.ts
+launchpad/node_modules/
+launchpad/server.log
